@@ -4,6 +4,7 @@
 # ignore ALL .log files
 *.log
 
+*.csv
 
 *.index
 
